@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">FolderSync</string>
-    <string name="in">Enter String</string>
-    <string name="out">SHA-512 Checksum</string>
-    <string name="proc">Compute!</string>
+    <string name="init_button">Choose Folder!</string>
+    <string name="compute_button">Compute Checksum!</string>
+    <string name="file_list">File List</string>
+    <string name="init">Computing Cheksums!</string>
+    <string name="fin">Cheksums Computed!</string>
 </resources>
